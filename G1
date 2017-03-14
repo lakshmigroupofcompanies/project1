@@ -1,3 +1,6 @@
 this line 1
+<<<<<<< HEAD
 this line 2
 this line 3
+=======
+>>>>>>> parent of f09e6cb... intial commit
